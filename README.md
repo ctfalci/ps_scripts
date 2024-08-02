@@ -15,4 +15,4 @@ streamline workflows, and enhance productivity. Each script is created to addres
 
 Feel free to explore, modify, and contribute to these scripts. Your feedback and improvements are always welcome!
 
-> **Warning**: But be careful, they don't DAMAGE, but human mistake does, please do your work diligently, otherwise you can lose a leg. ☠☠☠
+> **Warning**: Use it carefully, they don't DAMAGE, but a human mistake it does, please do your work diligently, otherwise you can lose a leg. #☠
